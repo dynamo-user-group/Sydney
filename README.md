@@ -15,6 +15,15 @@ Furthermore, we encourage you to interact with us as much as you can! Feel free 
 
 We really hope you enjoy this material as much as we enjoyed putting it together and you find it useful.
 
+## How to use
+This repo is divided in folders and each folder represents one lab the the group had.
+Inside of the folder you should find all the files that you need + a **.md** text file that explains what is that specific lab about, the contents of the folder and (hopefully) all the basic info that you need.
+
+Arguably, the very first thing you should do is to open the .md file and understand how to use the folder's material.
+
+## List of workshops
+May 2018 - Model Break-up For Coordination Purposes (Andrea Tassera)
+
 ### WIP
 This is meant to be used in conjunction with DynaHub.
 Instructions to come briefly.
