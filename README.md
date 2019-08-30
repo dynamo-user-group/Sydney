@@ -1,11 +1,11 @@
 ![logo](imgs/Dynamo_AUS_roo-GitHub.jpeg)
 
-# Sydney
-
 ## Declaration of Intent
 The Australian Dynamo User Group is making an effort to go even more open source!
 Our [Meetup Group](https://www.meetup.com/Dynamo-Sydney-User-Group/) is already open to everyone that is willing to learn Dynamo, Python for Dynamo, Visual Programming, Revit APIs (but not only) and experiment some cool stuff with us.
 However, we are always willing to go an extra mile. So we created this public GitHub repo where, from now on, we are going to store all the cool work that we do in our hands-on labs! In this way, if for whatever reason you haven't been able to come to the workshop, you can still collaborate, have fun and be in touch with us. :heart:
+
+# Sydney
 
 ## General Info
 Repository to host all the Dynamo graphs developed during the workshops held in Sydney.
