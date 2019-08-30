@@ -1,6 +1,6 @@
-# Sydney
-
 ![logo](imgs/Dynamo_AUS_roo-GitHub.jpeg)
+
+# Sydney
 
 ## Declaration of Intent
 The Australian Dynamo User Group is making an effort to go even more open source!

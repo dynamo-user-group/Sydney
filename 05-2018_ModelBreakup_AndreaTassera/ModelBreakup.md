@@ -2,7 +2,7 @@
 ## 08/05/2018 - Andrea Tassera
 [Meetup Link](http://meetu.ps/e/DXr2k/xDjNx/d)
 
-![Cover](\Images\Cover.png)
+![Cover](\Images\Cover.PNG)
 
 Andrea Tassera, Computational Design Manager @ Ridley, teaches how to automatically break up Revit models with the use of Dynamo :rocket:. In this class we see how to break up models by service/discipline (architecture, structure, mechanical, etc.) and by level, to ease the export to Navisworks for coordination.
 
