@@ -23,6 +23,7 @@ Arguably, the very first thing you should do is to open the .md file and underst
 
 ## List of workshops
 May 2018 - Model Break-up For Coordination Purposes (Andrea Tassera)
+September 2019 - Using Dynamo to prepare Models for Exchange / Model Clean-up (Gavin Crump)
 
 ### WIP
 This is meant to be used in conjunction with DynaHub.

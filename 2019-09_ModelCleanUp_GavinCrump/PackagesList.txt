@@ -1,0 +1,11 @@
+Version of Dynamo
+2.0.3
+
+Version of Revit
+2019
+
+Custom packages required:
+archi-lab.net (2019.2.7)
+Data Shapes (2019.2.30)
+Modelical (1.3.12)
+Zebra (2016.7.2)

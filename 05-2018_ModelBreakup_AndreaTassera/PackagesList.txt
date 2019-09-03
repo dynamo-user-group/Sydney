@@ -1,8 +1,0 @@
-DYNAMO VERSION: <Dynamo 1.3.0>
-
-PACKAGES USED:
-- Archi-lab_Grimshaw 2018.0.8
-- Steamnodes 1.2.3
-- Rhythm 2017.6.6
-- Data-Shapes 2017.6.7
-- Clockwork 1.0.3
