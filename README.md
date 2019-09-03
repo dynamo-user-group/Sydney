@@ -22,8 +22,8 @@ Inside of the folder you should find all the files that you need + a **.md** tex
 Arguably, the very first thing you should do is to open the .md file and understand how to use the folder's material.
 
 ## List of workshops
-May 2018 - Model Break-up For Coordination Purposes (Andrea Tassera)
-September 2019 - Using Dynamo to prepare Models for Exchange / Model Clean-up (Gavin Crump)
+* May 2018 - Model Break-up For Coordination Purposes (Andrea Tassera)
+* September 2019 - Using Dynamo to prepare Models for Exchange / Model Clean-up (Gavin Crump)
 
 ### WIP
 This is meant to be used in conjunction with DynaHub.
