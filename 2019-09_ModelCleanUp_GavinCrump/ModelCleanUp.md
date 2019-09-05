@@ -2,6 +2,9 @@
 ## 02/09/2019 - Gavin Crump
 [Meetup Link](https://www.meetup.com/en-AU/Dynamo-Sydney-User-Group/events/263744738/)
 
+Also, thanks to Gavin for registering his session and sharing on YouTube!
+[YouTube Link](https://www.youtube.com/watch?v=jJSHmJnXIdk)
+
 ![Cover](\imgs\cover.png)
 
 Revit models can get quite messy – luckily Dynamo is here to do some model cleaning for us!
